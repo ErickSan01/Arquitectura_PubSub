@@ -43,7 +43,7 @@ Este repositorio contiene los siguientes directorios y archivos:
 ## Prerrequisitos
 - Clonar el repositorio:
    ```shell
-   $ git clone https://gitlab.com/tareas-arquitectura-de-software-curso/publica-suscribe
+   $ git clone https://github.com/ErickSan01/Arquitectura_PubSub.git
    $ cd publica-subscribe
    ```
 - Contar con python 3.8 o superior y pip3 (las pruebas fueron realizadas con la versión 3.8). Se recomienda utilizar [pyenv](https://github.com/pyenv/pyenv) como manejador de versiones de python; una vez instalado se pueden seguir los siguientes comandos para instalar la versión deseada de python, esto hay que realizarlo en la raíz del repositorio:
