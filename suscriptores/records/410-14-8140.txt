@@ -1,0 +1,12 @@
+
+[26/05/2023 00:46:37]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 34.4, ritmo cardiaco: 130, presión arterial: 133, dispositivo: 71531925
+[26/05/2023 00:46:42]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 36.6, ritmo cardiaco: 93, presión arterial: 162, dispositivo: 71531925
+[26/05/2023 00:46:46]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 35.9, ritmo cardiaco: 107, presión arterial: 197, dispositivo: 71531925
+[26/05/2023 00:46:50]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 34.2, ritmo cardiaco: 109, presión arterial: 149, dispositivo: 71531925
+[26/05/2023 00:46:54]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 35.9, ritmo cardiaco: 109, presión arterial: 190, dispositivo: 71531925
+[26/05/2023 00:46:58]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 35.2, ritmo cardiaco: 133, presión arterial: 198, dispositivo: 71531925
+[26/05/2023 00:47:02]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 33.6, ritmo cardiaco: 134, presión arterial: 170, dispositivo: 71531925
+[26/05/2023 00:47:07]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 34.2, ritmo cardiaco: 71, presión arterial: 184, dispositivo: 71531925
+[26/05/2023 00:47:11]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 34.1, ritmo cardiaco: 110, presión arterial: 140, dispositivo: 71531925
+[26/05/2023 00:47:15]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 35.9, ritmo cardiaco: 71, presión arterial: 194, dispositivo: 71531925
+[26/05/2023 00:47:19]: Brittney White... ssn: 410-14-8140, edad: 110, temperatura: 37.0, ritmo cardiaco: 60, presión arterial: 152, dispositivo: 71531925

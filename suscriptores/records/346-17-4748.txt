@@ -1,0 +1,3 @@
+
+[26/05/2023 00:38:18]: Gary Johnson... ssn: 346-17-4748, edad: 65, temperatura: 36.0, ritmo cardiaco: 92, presión arterial: 141, dispositivo: 53906032
+[26/05/2023 00:38:21]: Gary Johnson... ssn: 346-17-4748, edad: 65, temperatura: 37.8, ritmo cardiaco: 125, presión arterial: 156, dispositivo: 53906032

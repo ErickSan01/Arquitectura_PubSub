@@ -1,0 +1,12 @@
+
+[26/05/2023 00:46:38]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 35.1, ritmo cardiaco: 105, presión arterial: 113, dispositivo: 26626528
+[26/05/2023 00:46:43]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 38.7, ritmo cardiaco: 70, presión arterial: 155, dispositivo: 26626528
+[26/05/2023 00:46:47]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 33.4, ritmo cardiaco: 95, presión arterial: 186, dispositivo: 26626528
+[26/05/2023 00:46:51]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 34.0, ritmo cardiaco: 120, presión arterial: 157, dispositivo: 26626528
+[26/05/2023 00:46:55]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 34.6, ritmo cardiaco: 60, presión arterial: 118, dispositivo: 26626528
+[26/05/2023 00:46:59]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 35.2, ritmo cardiaco: 83, presión arterial: 174, dispositivo: 26626528
+[26/05/2023 00:47:03]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 38.5, ritmo cardiaco: 113, presión arterial: 160, dispositivo: 26626528
+[26/05/2023 00:47:08]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 33.7, ritmo cardiaco: 66, presión arterial: 160, dispositivo: 26626528
+[26/05/2023 00:47:12]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 33.1, ritmo cardiaco: 102, presión arterial: 189, dispositivo: 26626528
+[26/05/2023 00:47:16]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 35.1, ritmo cardiaco: 96, presión arterial: 180, dispositivo: 26626528
+[26/05/2023 00:47:20]: Kristina Harris... ssn: 749-68-8691, edad: 109, temperatura: 37.2, ritmo cardiaco: 136, presión arterial: 129, dispositivo: 26626528

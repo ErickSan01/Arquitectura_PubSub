@@ -1,0 +1,8 @@
+
+[26/05/2023 00:45:11]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 33.2, ritmo cardiaco: 133, presión arterial: 192, dispositivo: 58049772
+[26/05/2023 00:45:16]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 33.6, ritmo cardiaco: 84, presión arterial: 106, dispositivo: 58049772
+[26/05/2023 00:45:21]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 34.2, ritmo cardiaco: 131, presión arterial: 167, dispositivo: 58049772
+[26/05/2023 00:45:26]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 33.9, ritmo cardiaco: 105, presión arterial: 156, dispositivo: 58049772
+[26/05/2023 00:45:31]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 33.8, ritmo cardiaco: 117, presión arterial: 192, dispositivo: 58049772
+[26/05/2023 00:45:37]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 33.8, ritmo cardiaco: 79, presión arterial: 171, dispositivo: 58049772
+[26/05/2023 00:45:42]: Martin Fisher... ssn: 777-25-1422, edad: 106, temperatura: 36.9, ritmo cardiaco: 64, presión arterial: 132, dispositivo: 58049772

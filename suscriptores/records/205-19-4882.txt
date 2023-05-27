@@ -1,0 +1,8 @@
+
+[26/05/2023 00:45:08]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 36.9, ritmo cardiaco: 84, presión arterial: 157, dispositivo: 12079189
+[26/05/2023 00:45:14]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 33.5, ritmo cardiaco: 69, presión arterial: 179, dispositivo: 12079189
+[26/05/2023 00:45:19]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 35.2, ritmo cardiaco: 81, presión arterial: 190, dispositivo: 12079189
+[26/05/2023 00:45:24]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 35.2, ritmo cardiaco: 112, presión arterial: 165, dispositivo: 12079189
+[26/05/2023 00:45:29]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 38.9, ritmo cardiaco: 111, presión arterial: 151, dispositivo: 12079189
+[26/05/2023 00:45:35]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 38.3, ritmo cardiaco: 90, presión arterial: 127, dispositivo: 12079189
+[26/05/2023 00:45:40]: Donald Myers... ssn: 205-19-4882, edad: 113, temperatura: 37.6, ritmo cardiaco: 103, presión arterial: 135, dispositivo: 12079189

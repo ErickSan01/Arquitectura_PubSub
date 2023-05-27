@@ -1,0 +1,2 @@
+
+[26/05/2023 00:36:07]: John Holmes... ssn: 746-62-2786, edad: 67, temperatura: 34.7, ritmo cardiaco: 124, presión arterial: 196, dispositivo: 63360773

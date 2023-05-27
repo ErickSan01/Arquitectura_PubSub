@@ -1,0 +1,21 @@
+
+[25/05/2023 22:41:29]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.5, ritmo cardiaco: 100, presión arterial: 178, dispositivo: 48545980
+[25/05/2023 22:41:32]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 37.8, ritmo cardiaco: 125, presión arterial: 187, dispositivo: 48545980
+[25/05/2023 22:41:34]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.5, ritmo cardiaco: 135, presión arterial: 178, dispositivo: 48545980
+[25/05/2023 22:41:37]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 33.1, ritmo cardiaco: 97, presión arterial: 104, dispositivo: 48545980
+[25/05/2023 22:41:40]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 35.1, ritmo cardiaco: 102, presión arterial: 154, dispositivo: 48545980
+[25/05/2023 22:41:42]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.3, ritmo cardiaco: 83, presión arterial: 129, dispositivo: 48545980
+[25/05/2023 22:41:45]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 36.2, ritmo cardiaco: 120, presión arterial: 128, dispositivo: 48545980
+[25/05/2023 22:41:48]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.4, ritmo cardiaco: 78, presión arterial: 138, dispositivo: 48545980
+[25/05/2023 22:41:50]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 35.4, ritmo cardiaco: 129, presión arterial: 140, dispositivo: 48545980
+[25/05/2023 22:41:53]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.3, ritmo cardiaco: 64, presión arterial: 167, dispositivo: 48545980
+[25/05/2023 22:41:56]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 35.8, ritmo cardiaco: 128, presión arterial: 162, dispositivo: 48545980
+[25/05/2023 22:41:58]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.2, ritmo cardiaco: 118, presión arterial: 176, dispositivo: 48545980
+[25/05/2023 22:42:01]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.3, ritmo cardiaco: 60, presión arterial: 189, dispositivo: 48545980
+[25/05/2023 22:42:04]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 36.6, ritmo cardiaco: 95, presión arterial: 127, dispositivo: 48545980
+[25/05/2023 22:42:06]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 38.8, ritmo cardiaco: 78, presión arterial: 187, dispositivo: 48545980
+[25/05/2023 22:42:09]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 35.1, ritmo cardiaco: 86, presión arterial: 171, dispositivo: 48545980
+[25/05/2023 22:42:12]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 36.0, ritmo cardiaco: 85, presión arterial: 165, dispositivo: 48545980
+[25/05/2023 22:42:14]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 33.7, ritmo cardiaco: 63, presión arterial: 118, dispositivo: 48545980
+[25/05/2023 22:42:17]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 35.2, ritmo cardiaco: 61, presión arterial: 105, dispositivo: 48545980
+[25/05/2023 22:42:20]: Virginia Mendoza... ssn: 732-52-0048, edad: 83, temperatura: 36.4, ritmo cardiaco: 80, presión arterial: 150, dispositivo: 48545980

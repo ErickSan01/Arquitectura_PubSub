@@ -1,0 +1,7 @@
+
+[26/05/2023 00:45:13]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 36.1, ritmo cardiaco: 74, presión arterial: 189, dispositivo: 65023839
+[26/05/2023 00:45:18]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 34.1, ritmo cardiaco: 107, presión arterial: 167, dispositivo: 65023839
+[26/05/2023 00:45:23]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 35.6, ritmo cardiaco: 101, presión arterial: 125, dispositivo: 65023839
+[26/05/2023 00:45:28]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 37.4, ritmo cardiaco: 126, presión arterial: 114, dispositivo: 65023839
+[26/05/2023 00:45:34]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 35.0, ritmo cardiaco: 104, presión arterial: 121, dispositivo: 65023839
+[26/05/2023 00:45:39]: Douglas Simpson... ssn: 848-87-0709, edad: 64, temperatura: 37.0, ritmo cardiaco: 150, presión arterial: 101, dispositivo: 65023839

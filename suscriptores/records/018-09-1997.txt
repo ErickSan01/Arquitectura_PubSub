@@ -1,0 +1,8 @@
+
+[26/05/2023 00:45:10]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 33.1, ritmo cardiaco: 130, presión arterial: 104, dispositivo: 84732065
+[26/05/2023 00:45:15]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 38.6, ritmo cardiaco: 132, presión arterial: 147, dispositivo: 84732065
+[26/05/2023 00:45:20]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 37.9, ritmo cardiaco: 108, presión arterial: 182, dispositivo: 84732065
+[26/05/2023 00:45:25]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 33.3, ritmo cardiaco: 122, presión arterial: 147, dispositivo: 84732065
+[26/05/2023 00:45:30]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 35.2, ritmo cardiaco: 85, presión arterial: 159, dispositivo: 84732065
+[26/05/2023 00:45:36]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 37.6, ritmo cardiaco: 144, presión arterial: 132, dispositivo: 84732065
+[26/05/2023 00:45:41]: Mark Bush... ssn: 018-09-1997, edad: 76, temperatura: 33.5, ritmo cardiaco: 104, presión arterial: 114, dispositivo: 84732065

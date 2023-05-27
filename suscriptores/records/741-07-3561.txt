@@ -1,0 +1,21 @@
+
+[25/05/2023 22:41:28]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 36.7, ritmo cardiaco: 109, presión arterial: 176, dispositivo: 89472952
+[25/05/2023 22:41:30]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 34.3, ritmo cardiaco: 92, presión arterial: 194, dispositivo: 89472952
+[25/05/2023 22:41:33]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 34.4, ritmo cardiaco: 123, presión arterial: 103, dispositivo: 89472952
+[25/05/2023 22:41:36]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 34.1, ritmo cardiaco: 136, presión arterial: 123, dispositivo: 89472952
+[25/05/2023 22:41:38]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 36.9, ritmo cardiaco: 78, presión arterial: 103, dispositivo: 89472952
+[25/05/2023 22:41:41]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 37.8, ritmo cardiaco: 77, presión arterial: 167, dispositivo: 89472952
+[25/05/2023 22:41:44]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 33.5, ritmo cardiaco: 95, presión arterial: 151, dispositivo: 89472952
+[25/05/2023 22:41:46]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 33.2, ritmo cardiaco: 62, presión arterial: 115, dispositivo: 89472952
+[25/05/2023 22:41:49]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 34.0, ritmo cardiaco: 67, presión arterial: 134, dispositivo: 89472952
+[25/05/2023 22:41:52]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 35.1, ritmo cardiaco: 76, presión arterial: 101, dispositivo: 89472952
+[25/05/2023 22:41:54]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 37.6, ritmo cardiaco: 118, presión arterial: 105, dispositivo: 89472952
+[25/05/2023 22:41:57]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 35.9, ritmo cardiaco: 106, presión arterial: 149, dispositivo: 89472952
+[25/05/2023 22:42:00]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 38.8, ritmo cardiaco: 105, presión arterial: 117, dispositivo: 89472952
+[25/05/2023 22:42:02]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 38.4, ritmo cardiaco: 128, presión arterial: 166, dispositivo: 89472952
+[25/05/2023 22:42:05]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 34.2, ritmo cardiaco: 136, presión arterial: 110, dispositivo: 89472952
+[25/05/2023 22:42:08]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 38.6, ritmo cardiaco: 122, presión arterial: 200, dispositivo: 89472952
+[25/05/2023 22:42:10]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 37.3, ritmo cardiaco: 119, presión arterial: 110, dispositivo: 89472952
+[25/05/2023 22:42:13]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 38.4, ritmo cardiaco: 114, presión arterial: 110, dispositivo: 89472952
+[25/05/2023 22:42:16]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 38.4, ritmo cardiaco: 100, presión arterial: 181, dispositivo: 89472952
+[25/05/2023 22:42:18]: Darren Gallegos... ssn: 741-07-3561, edad: 116, temperatura: 37.4, ritmo cardiaco: 77, presión arterial: 153, dispositivo: 89472952

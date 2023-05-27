@@ -1,0 +1,21 @@
+
+[25/05/2023 22:37:07]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.5, ritmo cardiaco: 73, presión arterial: 156, dispositivo: 34576697
+[25/05/2023 22:37:13]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 34.5, ritmo cardiaco: 130, presión arterial: 115, dispositivo: 34576697
+[25/05/2023 22:37:18]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 34.4, ritmo cardiaco: 136, presión arterial: 136, dispositivo: 34576697
+[25/05/2023 22:37:24]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 34.1, ritmo cardiaco: 146, presión arterial: 110, dispositivo: 34576697
+[25/05/2023 22:37:29]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 33.9, ritmo cardiaco: 115, presión arterial: 173, dispositivo: 34576697
+[25/05/2023 22:37:34]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.1, ritmo cardiaco: 132, presión arterial: 113, dispositivo: 34576697
+[25/05/2023 22:37:40]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 35.9, ritmo cardiaco: 132, presión arterial: 111, dispositivo: 34576697
+[25/05/2023 22:37:45]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 35.4, ritmo cardiaco: 72, presión arterial: 173, dispositivo: 34576697
+[25/05/2023 22:37:50]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 34.2, ritmo cardiaco: 125, presión arterial: 172, dispositivo: 34576697
+[25/05/2023 22:37:56]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.4, ritmo cardiaco: 117, presión arterial: 200, dispositivo: 34576697
+[25/05/2023 22:38:01]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 38.2, ritmo cardiaco: 104, presión arterial: 194, dispositivo: 34576697
+[25/05/2023 22:38:07]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.1, ritmo cardiaco: 78, presión arterial: 193, dispositivo: 34576697
+[25/05/2023 22:38:12]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 33.3, ritmo cardiaco: 63, presión arterial: 162, dispositivo: 34576697
+[25/05/2023 22:38:17]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.1, ritmo cardiaco: 133, presión arterial: 172, dispositivo: 34576697
+[25/05/2023 22:38:23]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 34.4, ritmo cardiaco: 107, presión arterial: 129, dispositivo: 34576697
+[25/05/2023 22:38:28]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.4, ritmo cardiaco: 66, presión arterial: 176, dispositivo: 34576697
+[25/05/2023 22:38:33]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 36.5, ritmo cardiaco: 86, presión arterial: 111, dispositivo: 34576697
+[25/05/2023 22:38:39]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 37.9, ritmo cardiaco: 66, presión arterial: 143, dispositivo: 34576697
+[25/05/2023 22:38:44]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 35.5, ritmo cardiaco: 63, presión arterial: 107, dispositivo: 34576697
+[25/05/2023 22:38:50]: Paula Murphy... ssn: 095-90-6083, edad: 113, temperatura: 38.8, ritmo cardiaco: 96, presión arterial: 128, dispositivo: 34576697

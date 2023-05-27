@@ -1,0 +1,10 @@
+
+[26/05/2023 00:41:00]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 33.6, ritmo cardiaco: 98, presión arterial: 170, dispositivo: 14569904
+[26/05/2023 00:41:01]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 38.0, ritmo cardiaco: 84, presión arterial: 132, dispositivo: 14569904
+[26/05/2023 00:41:02]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 34.4, ritmo cardiaco: 107, presión arterial: 198, dispositivo: 14569904
+[26/05/2023 00:41:03]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 35.9, ritmo cardiaco: 134, presión arterial: 185, dispositivo: 14569904
+[26/05/2023 00:41:04]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 38.1, ritmo cardiaco: 139, presión arterial: 164, dispositivo: 14569904
+[26/05/2023 00:41:05]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 36.0, ritmo cardiaco: 85, presión arterial: 132, dispositivo: 14569904
+[26/05/2023 00:41:06]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 33.1, ritmo cardiaco: 145, presión arterial: 200, dispositivo: 14569904
+[26/05/2023 00:41:07]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 36.2, ritmo cardiaco: 140, presión arterial: 109, dispositivo: 14569904
+[26/05/2023 00:41:08]: Stephanie Anderson... ssn: 339-76-7380, edad: 96, temperatura: 35.3, ritmo cardiaco: 83, presión arterial: 138, dispositivo: 14569904

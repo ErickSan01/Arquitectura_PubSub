@@ -1,0 +1,12 @@
+
+[26/05/2023 00:46:36]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 35.1, ritmo cardiaco: 111, presión arterial: 146, dispositivo: 26830718
+[26/05/2023 00:46:41]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 34.8, ritmo cardiaco: 72, presión arterial: 120, dispositivo: 26830718
+[26/05/2023 00:46:45]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 34.8, ritmo cardiaco: 126, presión arterial: 117, dispositivo: 26830718
+[26/05/2023 00:46:49]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 37.2, ritmo cardiaco: 83, presión arterial: 181, dispositivo: 26830718
+[26/05/2023 00:46:53]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 33.1, ritmo cardiaco: 148, presión arterial: 182, dispositivo: 26830718
+[26/05/2023 00:46:57]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 35.5, ritmo cardiaco: 98, presión arterial: 132, dispositivo: 26830718
+[26/05/2023 00:47:01]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 37.5, ritmo cardiaco: 141, presión arterial: 155, dispositivo: 26830718
+[26/05/2023 00:47:06]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 35.9, ritmo cardiaco: 121, presión arterial: 118, dispositivo: 26830718
+[26/05/2023 00:47:10]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 37.2, ritmo cardiaco: 64, presión arterial: 195, dispositivo: 26830718
+[26/05/2023 00:47:14]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 33.8, ritmo cardiaco: 141, presión arterial: 124, dispositivo: 26830718
+[26/05/2023 00:47:18]: Nathan Lewis... ssn: 443-93-4801, edad: 100, temperatura: 33.0, ritmo cardiaco: 114, presión arterial: 111, dispositivo: 26830718

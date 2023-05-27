@@ -1,0 +1,7 @@
+
+[26/05/2023 00:45:12]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 36.6, ritmo cardiaco: 74, presión arterial: 106, dispositivo: 54672466
+[26/05/2023 00:45:17]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 38.0, ritmo cardiaco: 94, presión arterial: 143, dispositivo: 54672466
+[26/05/2023 00:45:22]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 37.7, ritmo cardiaco: 111, presión arterial: 124, dispositivo: 54672466
+[26/05/2023 00:45:27]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 38.7, ritmo cardiaco: 111, presión arterial: 175, dispositivo: 54672466
+[26/05/2023 00:45:32]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 33.5, ritmo cardiaco: 76, presión arterial: 186, dispositivo: 54672466
+[26/05/2023 00:45:38]: Valerie Hanson... ssn: 133-32-9183, edad: 91, temperatura: 37.6, ritmo cardiaco: 134, presión arterial: 188, dispositivo: 54672466

@@ -1,0 +1,12 @@
+
+[26/05/2023 00:46:39]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 33.9, ritmo cardiaco: 137, presión arterial: 125, dispositivo: 73169258
+[26/05/2023 00:46:44]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 36.6, ritmo cardiaco: 121, presión arterial: 180, dispositivo: 73169258
+[26/05/2023 00:46:48]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 36.3, ritmo cardiaco: 69, presión arterial: 125, dispositivo: 73169258
+[26/05/2023 00:46:52]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 37.3, ritmo cardiaco: 126, presión arterial: 176, dispositivo: 73169258
+[26/05/2023 00:46:56]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 36.0, ritmo cardiaco: 124, presión arterial: 200, dispositivo: 73169258
+[26/05/2023 00:47:00]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 33.8, ritmo cardiaco: 85, presión arterial: 164, dispositivo: 73169258
+[26/05/2023 00:47:04]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 33.9, ritmo cardiaco: 60, presión arterial: 147, dispositivo: 73169258
+[26/05/2023 00:47:09]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 35.4, ritmo cardiaco: 85, presión arterial: 169, dispositivo: 73169258
+[26/05/2023 00:47:13]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 33.7, ritmo cardiaco: 95, presión arterial: 102, dispositivo: 73169258
+[26/05/2023 00:47:17]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 36.7, ritmo cardiaco: 90, presión arterial: 133, dispositivo: 73169258
+[26/05/2023 00:47:21]: Charles Hoffman... ssn: 353-38-6946, edad: 83, temperatura: 34.9, ritmo cardiaco: 97, presión arterial: 142, dispositivo: 73169258

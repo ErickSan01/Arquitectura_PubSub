@@ -1,0 +1,21 @@
+
+[25/05/2023 22:37:06]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 38.2, ritmo cardiaco: 130, presión arterial: 114, dispositivo: 45254011
+[25/05/2023 22:37:11]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 33.7, ritmo cardiaco: 112, presión arterial: 156, dispositivo: 45254011
+[25/05/2023 22:37:17]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.6, ritmo cardiaco: 97, presión arterial: 194, dispositivo: 45254011
+[25/05/2023 22:37:22]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.4, ritmo cardiaco: 117, presión arterial: 168, dispositivo: 45254011
+[25/05/2023 22:37:28]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.7, ritmo cardiaco: 65, presión arterial: 177, dispositivo: 45254011
+[25/05/2023 22:37:33]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 38.0, ritmo cardiaco: 141, presión arterial: 181, dispositivo: 45254011
+[25/05/2023 22:37:38]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.4, ritmo cardiaco: 88, presión arterial: 148, dispositivo: 45254011
+[25/05/2023 22:37:44]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.9, ritmo cardiaco: 146, presión arterial: 135, dispositivo: 45254011
+[25/05/2023 22:37:49]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 34.0, ritmo cardiaco: 149, presión arterial: 153, dispositivo: 45254011
+[25/05/2023 22:37:55]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 34.1, ritmo cardiaco: 118, presión arterial: 167, dispositivo: 45254011
+[25/05/2023 22:38:00]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 37.1, ritmo cardiaco: 134, presión arterial: 124, dispositivo: 45254011
+[25/05/2023 22:38:05]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 37.5, ritmo cardiaco: 136, presión arterial: 157, dispositivo: 45254011
+[25/05/2023 22:38:11]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 38.1, ritmo cardiaco: 122, presión arterial: 195, dispositivo: 45254011
+[25/05/2023 22:38:16]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 33.4, ritmo cardiaco: 97, presión arterial: 134, dispositivo: 45254011
+[25/05/2023 22:38:21]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.6, ritmo cardiaco: 65, presión arterial: 158, dispositivo: 45254011
+[25/05/2023 22:38:27]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 34.7, ritmo cardiaco: 64, presión arterial: 160, dispositivo: 45254011
+[25/05/2023 22:38:32]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 38.6, ritmo cardiaco: 113, presión arterial: 118, dispositivo: 45254011
+[25/05/2023 22:38:38]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 38.7, ritmo cardiaco: 106, presión arterial: 172, dispositivo: 45254011
+[25/05/2023 22:38:43]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 37.6, ritmo cardiaco: 149, presión arterial: 103, dispositivo: 45254011
+[25/05/2023 22:38:48]: Andrea Stanton... ssn: 619-84-3710, edad: 105, temperatura: 36.2, ritmo cardiaco: 71, presión arterial: 125, dispositivo: 45254011

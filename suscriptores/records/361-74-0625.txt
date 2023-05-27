@@ -1,0 +1,22 @@
+
+[25/05/2023 22:37:03]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 35.4, ritmo cardiaco: 123, presión arterial: 187, dispositivo: 13816442
+[25/05/2023 22:37:03]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 35.4, ritmo cardiaco: 123, presión arterial: 187, dispositivo: 13816442
+[25/05/2023 22:37:09]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 36.6, ritmo cardiaco: 91, presión arterial: 174, dispositivo: 13816442
+[25/05/2023 22:37:14]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 37.5, ritmo cardiaco: 105, presión arterial: 133, dispositivo: 13816442
+[25/05/2023 22:37:20]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 33.8, ritmo cardiaco: 86, presión arterial: 153, dispositivo: 13816442
+[25/05/2023 22:37:25]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 35.0, ritmo cardiaco: 104, presión arterial: 128, dispositivo: 13816442
+[25/05/2023 22:37:30]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 33.2, ritmo cardiaco: 81, presión arterial: 127, dispositivo: 13816442
+[25/05/2023 22:37:36]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 33.7, ritmo cardiaco: 136, presión arterial: 191, dispositivo: 13816442
+[25/05/2023 22:37:41]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 36.4, ritmo cardiaco: 61, presión arterial: 192, dispositivo: 13816442
+[25/05/2023 22:37:46]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 34.7, ritmo cardiaco: 95, presión arterial: 173, dispositivo: 13816442
+[25/05/2023 22:37:52]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 33.8, ritmo cardiaco: 120, presión arterial: 147, dispositivo: 13816442
+[25/05/2023 22:37:57]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 33.9, ritmo cardiaco: 67, presión arterial: 163, dispositivo: 13816442
+[25/05/2023 22:38:03]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 37.0, ritmo cardiaco: 97, presión arterial: 145, dispositivo: 13816442
+[25/05/2023 22:38:08]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 37.6, ritmo cardiaco: 127, presión arterial: 165, dispositivo: 13816442
+[25/05/2023 22:38:13]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 35.0, ritmo cardiaco: 125, presión arterial: 142, dispositivo: 13816442
+[25/05/2023 22:38:19]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 37.0, ritmo cardiaco: 139, presión arterial: 135, dispositivo: 13816442
+[25/05/2023 22:38:24]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 34.8, ritmo cardiaco: 111, presión arterial: 112, dispositivo: 13816442
+[25/05/2023 22:38:29]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 36.2, ritmo cardiaco: 127, presión arterial: 161, dispositivo: 13816442
+[25/05/2023 22:38:35]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 38.6, ritmo cardiaco: 82, presión arterial: 134, dispositivo: 13816442
+[25/05/2023 22:38:41]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 37.7, ritmo cardiaco: 111, presión arterial: 181, dispositivo: 13816442
+[25/05/2023 22:38:46]: Matthew Ortiz... ssn: 361-74-0625, edad: 77, temperatura: 35.4, ritmo cardiaco: 61, presión arterial: 197, dispositivo: 13816442
