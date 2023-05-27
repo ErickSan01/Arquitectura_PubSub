@@ -88,22 +88,22 @@ Este repositorio contiene los siguientes directorios y archivos:
 
    Paquete | Versión | Descripción
    --------|---------|------------
-   pika   | 1.1.0   | Implementación del protocolo AMQP 0-9-1 y que incuye la extensión de RabbitMQ
+   stomp.py  | 8.1.0   | Implementación del protocolo STOMP y que permite la conexión con ActiveMQ
    Faker  | 13.3.0  | Generador de datos falsos
    telepot| 12.7    | Api de Telegram
 
    *__Nota__: También puedes instalar estos prerrequisitos manualmente ejecutando los siguientes comandos:*   
-   > pip3 install pika== 1.1.0
+   > pip3 install stomp.py==8.1.0
    > pip3 install Faker==13.3.0
    > pip3 install telepot==12.7
-
-- Instalamos RabbitMQ. La manera recomendada para implementar una instancia de RabbitMQ es utilizando [Docker](https://www.docker.com/), para instalarlo puedes seguir las instrucciones para cada sistema operativo haciendo clic [aquí](https://docs.docker.com/install/). Una vez instalado docker podemos ejecutar el siguiente comando:
+   
+   Instalamos ActiveMQ. La manera recomendada para implementar una instancia de ActiveMQ es utilizando [Docker](https://www.docker.com/), para instalarlo puedes seguir las instrucciones para cada sistema operativo haciendo clic [aquí](https://docs.docker.com/install/). Una vez instalado docker podemos ejecutar el siguiente comando:
 
     ```shell
-    $ docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+    $ docker run -it --rm --name activemq -p 8161:8161 -p 61613:61613 rmohr/activemq
     ```
 
-    Este comando correrá un contenedor de docker con la imagen de RabbitMQ, el cual seguirá corriendo hasta que sea detenido explícitamente.
+    Este comando correrá un contenedor de docker con la imagen de ActiveMQ, el cual seguirá corriendo hasta que sea detenido explícitamente.
 
 ## Ejecución
 
@@ -161,9 +161,10 @@ Sigue las siguientes instrucciones para ejecutar los diferentes componentes del 
    (venv)$ python monitor.py
    ```
 
+
 ## Versión
 
-2.2.0 - Marzo 2022
+3.0.0 - Mayo 2023
 
 ## Autores
 
@@ -171,3 +172,132 @@ Sigue las siguientes instrucciones para ejecutar los diferentes componentes del 
 * **Yonathan Martínez**
 * **Sergio Salazar**
 * **Jorge Solis**
+* **Erick Sánchez Martínez**
+* **José Leonardo Rafael Calderón Gallegos**
+
+
+
+## Cambios versión 3.0.0
+
+### Cambio de tecnología a ActiveMQ
+
+* publicador.py  
+Ahora usa el protocolo STOMP para conectarse a ActiveMQ.  
+No se cambió ningún diagrama.
+
+* monitor.py  
+Ahora usa el protocolo STOMP para conectarse a ActiveMQ.  
+Métodos:  
+
+         +------------------------+--------------------------+-----------------------+
+         |         Nombre         |        Parámetros        |        Función        |
+         +------------------------+--------------------------+-----------------------+
+         |       __init__()       |  - self: definición de   |  - constructor de la  |
+         |                        |    la instancia de la    |    clase              |
+         |                        |    clase                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_error()       |  - self: definición de   |  - reporta un error   |
+         |                        |    la instancia de la    |    en un mensaje      |
+         |                        |    clase                 |                       |
+         |                        |  - message: es el        |                       |
+         |                        |    mensaje que causó el  |                       |
+         |                        |    error                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_message()     |  - self: definición de   |  - se manda llamar    |
+         |                        |    la instancia de la    |    cuando se recibe   |
+         |                        |    clase                 |    un mensaje,        |
+         |                        |  - message: es el        |    imprime en la      |
+         |                        |    mensaje que se        |    pantalla los datos |
+         |                        |    recibió               |    del paciente       |
+         +------------------------+--------------------------+-----------------------+
+         |       suscribe()       |  - self: definición de   |  - inicializa el      |
+         |                        |    la instancia de la    |    proceso de         |
+         |                        |    clase                 |    monitoreo de       |
+         |                        |                          |    signos vitales     |
+         +------------------------+--------------------------+-----------------------+
+         |        consume()       |  - queue: ruta a la que  |  - realiza la         |
+         |                        |    el suscriptor está    |    suscripción en el  |
+         |                        |    interesado en recibir |    distribuidor de    |
+         |                        |    mensajes              |    mensajes para      |
+         |                        |                          |    comenzar a recibir |
+         |                        |                          |    mensajes           |
+         |                        |                          |                       |
+         +------------------------+--------------------------+-----------------------+
+
+* notifier.py  
+Ahora usa el protocolo STOMP para conectarse a ActiveMQ.  
+Métodos:  
+
+         +------------------------+--------------------------+-----------------------+
+         |         Nombre         |        Parámetros        |        Función        |
+         +------------------------+--------------------------+-----------------------+
+         |       __init__()       |  - self: definición de   |  - constructor de la  |
+         |                        |    la instancia de la    |    clase              |
+         |                        |    clase                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_error()       |  - self: definición de   |  - reporta un error   |
+         |                        |    la instancia de la    |    en un mensaje      |
+         |                        |    clase                 |                       |
+         |                        |  - message: es el        |                       |
+         |                        |    mensaje que causó el  |                       |
+         |                        |    error                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_message()     |  - self: definición de   |  - se manda llamar    |
+         |                        |    la instancia de la    |    cuando se recibe   |
+         |                        |    clase                 |    un mensaje, manda  |
+         |                        |  - message: es el        |    un mensaje por     |
+         |                        |    mensaje que se        |    Telegram al        |
+         |                        |    recibió               |    enfermero          |
+         +------------------------+--------------------------+-----------------------+
+         |       suscribe()       |  - self: definición de   |  - inicializa el      |
+         |                        |    la instancia de la    |    proceso de         |
+         |                        |    clase                 |    monitoreo de       |
+         |                        |                          |    signos vitales     |
+         +------------------------+--------------------------+-----------------------+
+         |        consume()       |  - queue: ruta a la que  |  - realiza la         |
+         |                        |    el suscriptor está    |    suscripción en el  |
+         |                        |    interesado en recibir |    distribuidor de    |
+         |                        |    mensajes              |    mensajes para      |
+         |                        |                          |    comenzar a recibir |
+         |                        |                          |    mensajes           |
+         |                        |                          |                       |
+         +------------------------+--------------------------+-----------------------+
+
+* record.py  
+Ahora usa el protocolo STOMP para conectarse a ActiveMQ.  
+Métodos:  
+
+         +------------------------+--------------------------+-----------------------+
+         |         Nombre         |        Parámetros        |        Función        |
+         +------------------------+--------------------------+-----------------------+
+         |       __init__()       |  - self: definición de   |  - constructor de la  |
+         |                        |    la instancia de la    |    clase              |
+         |                        |    clase                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_error()       |  - self: definición de   |  - reporta un error   |
+         |                        |    la instancia de la    |    en un mensaje      |
+         |                        |    clase                 |                       |
+         |                        |  - message: es el        |                       |
+         |                        |    mensaje que causó el  |                       |
+         |                        |    error                 |                       |
+         +------------------------+--------------------------+-----------------------+
+         |       on_message()     |  - self: definición de   |  - se manda llamar    |
+         |                        |    la instancia de la    |    cuando se recibe   |
+         |                        |    clase                 |    un mensaje, guarda |
+         |                        |  - message: es el        |    los datos del      |
+         |                        |    mensaje que se        |    paciente en un     |
+         |                        |    recibió               |    archivo de texto   |
+         +------------------------+--------------------------+-----------------------+
+         |       suscribe()       |  - self: definición de   |  - inicializa el      |
+         |                        |    la instancia de la    |    proceso de         |
+         |                        |    clase                 |    monitoreo de       |
+         |                        |                          |    signos vitales     |
+         +------------------------+--------------------------+-----------------------+
+         |        consume()       |  - queue: ruta a la que  |  - realiza la         |
+         |                        |    el suscriptor está    |    suscripción en el  |
+         |                        |    interesado en recibir |    distribuidor de    |
+         |                        |    mensajes              |    mensajes para      |
+         |                        |                          |    comenzar a recibir |
+         |                        |                          |    mensajes           |
+         |                        |                          |                       |
+         +------------------------+--------------------------+-----------------------+

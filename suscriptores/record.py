@@ -22,43 +22,32 @@
 #           |                        |    la instancia de la    |    clase              |
 #           |                        |    clase                 |                       |
 #           +------------------------+--------------------------+-----------------------+
+#           |       on_error()       |  - self: definición de   |  - reporta un error   |
+#           |                        |    la instancia de la    |    en un mensaje      |
+#           |                        |    clase                 |                       |
+#           |                        |  - message: es el        |                       |
+#           |                        |    mensaje que causó el  |                       |
+#           |                        |    error                 |                       |
+#           +------------------------+--------------------------+-----------------------+
+#           |       on_message()     |  - self: definición de   |  - se manda llamar    |
+#           |                        |    la instancia de la    |    cuando se recibe   |
+#           |                        |    clase                 |    un mensaje, guarda |
+#           |                        |  - message: es el        |    los datos del      |
+#           |                        |    mensaje que se        |    paciente en un     |
+#           |                        |    recibió               |    archivo de texto   |
+#           +------------------------+--------------------------+-----------------------+
 #           |       suscribe()       |  - self: definición de   |  - inicializa el      |
 #           |                        |    la instancia de la    |    proceso de         |
 #           |                        |    clase                 |    monitoreo de       |
 #           |                        |                          |    signos vitales     |
 #           +------------------------+--------------------------+-----------------------+
-#           |        consume()       |  - self: definición de   |  - realiza la         |
-#           |                        |    la instancia de la    |    suscripción en el  |
-#           |                        |    clase                 |    distribuidor de    |
-#           |                        |  - queue: ruta a la que  |    mensajes para      |
-#           |                        |    el suscriptor está    |    comenzar a recibir |
-#           |                        |    interesado en recibir |    mensajes           |
-#           |                        |    mensajes              |                       |
-#           |                        |  - callback: accion a    |                       |
-#           |                        |    ejecutar al recibir   |                       |
-#           |                        |    el mensaje desde el   |                       |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes              |                       |
-#           +------------------------+--------------------------+-----------------------+
-#           |       callback()       |  - self: definición de   |  - escribe los datos  |
-#           |                        |    la instancia de la    |    del adulto mayor   |
-#           |                        |    clase                 |    recibidos desde el |
-#           |                        |  - ch: canal de          |    distribuidor de    |
-#           |                        |    comunicación entre el |    mensajes en un     |
-#           |                        |    suscriptor y el       |    archivo de texto   |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - method: método de     |                       |
-#           |                        |    conexión utilizado en |                       |
-#           |                        |    la suscripción        |                       |
-#           |                        |    [propio de RabbitMQ]  |                       |
-#           |                        |  - properties:           |                       |
-#           |                        |    propiedades de la     |                       |
-#           |                        |    conexión [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - body: contenido del   |                       |
-#           |                        |    mensaje recibido      |                       |
+#           |        consume()       |  - queue: ruta a la que  |  - realiza la         |
+#           |                        |    el suscriptor está    |    suscripción en el  |
+#           |                        |    interesado en recibir |    distribuidor de    |
+#           |                        |    mensajes              |    mensajes para      |
+#           |                        |                          |    comenzar a recibir |
+#           |                        |                          |    mensajes           |
+#           |                        |                          |                       |
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------

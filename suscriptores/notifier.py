@@ -23,43 +23,32 @@
 #           |                        |    la instancia de la    |    clase              |
 #           |                        |    clase                 |                       |
 #           +------------------------+--------------------------+-----------------------+
+#           |       on_error()       |  - self: definición de   |  - reporta un error   |
+#           |                        |    la instancia de la    |    en un mensaje      |
+#           |                        |    clase                 |                       |
+#           |                        |  - message: es el        |                       |
+#           |                        |    mensaje que causó el  |                       |
+#           |                        |    error                 |                       |
+#           +------------------------+--------------------------+-----------------------+
+#           |       on_message()     |  - self: definición de   |  - se manda llamar    |
+#           |                        |    la instancia de la    |    cuando se recibe   |
+#           |                        |    clase                 |    un mensaje, manda  |
+#           |                        |  - message: es el        |    un mensaje por     |
+#           |                        |    mensaje que se        |    Telegram al        |
+#           |                        |    recibió               |    enfermero          |
+#           +------------------------+--------------------------+-----------------------+
 #           |       suscribe()       |  - self: definición de   |  - inicializa el      |
 #           |                        |    la instancia de la    |    proceso de         |
 #           |                        |    clase                 |    monitoreo de       |
 #           |                        |                          |    signos vitales     |
 #           +------------------------+--------------------------+-----------------------+
-#           |        consume()       |  - self: definición de   |  - realiza la         |
-#           |                        |    la instancia de la    |    suscripción en el  |
-#           |                        |    clase                 |    distribuidor de    |
-#           |                        |  - queue: ruta a la que  |    mensajes para      |
-#           |                        |    el suscriptor está    |    comenzar a recibir |
-#           |                        |    interesado en recibir |    mensajes           |
-#           |                        |    mensajes              |                       |
-#           |                        |  - callback: accion a    |                       |
-#           |                        |    ejecutar al recibir   |                       |
-#           |                        |    el mensaje desde el   |                       |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes              |                       |
-#           +------------------------+--------------------------+-----------------------+
-#           |       callback()       |  - self: definición de   |  - envía a través de  |
-#           |                        |    la instancia de la    |    telegram los datos |
-#           |                        |    clase                 |    del adulto mayor   |
-#           |                        |  - ch: canal de          |    recibidos desde el |
-#           |                        |    comunicación entre el |    distribuidor de    |
-#           |                        |    suscriptor y el       |    mensajes           |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - method: método de     |                       |
-#           |                        |    conexión utilizado en |                       |
-#           |                        |    la suscripción        |                       |
-#           |                        |    [propio de RabbitMQ]  |                       |
-#           |                        |  - properties:           |                       |
-#           |                        |    propiedades de la     |                       |
-#           |                        |    conexión [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - body: contenido del   |                       |
-#           |                        |    mensaje recibido      |                       |
+#           |        consume()       |  - queue: ruta a la que  |  - realiza la         |
+#           |                        |    el suscriptor está    |    suscripción en el  |
+#           |                        |    interesado en recibir |    distribuidor de    |
+#           |                        |    mensajes              |    mensajes para      |
+#           |                        |                          |    comenzar a recibir |
+#           |                        |                          |    mensajes           |
+#           |                        |                          |                       |
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------
